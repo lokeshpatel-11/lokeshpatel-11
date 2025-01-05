@@ -17,6 +17,12 @@ Hi there, I'm Lokesh! 👋<br>I'm a third-year MCA Student. I loves to known the
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshpatel-11&bg_color=ffffff&color=000000&line=blue&point=000000&area=true&hide_border=true)
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshpatel-11&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshpatel-11&layout=compact&theme=radical)
+
 
 ---
 
