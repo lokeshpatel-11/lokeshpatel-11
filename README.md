@@ -17,6 +17,19 @@ Hi there, I'm Lokesh! 👋<br>I'm a third-year MCA Student. I loves to known the
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshpatel-11&bg_color=ffffff&color=000000&line=blue&point=000000&area=true&hide_border=true)
 
+## 🤝🏻 Connect with Me
+
+<a href="https://twitter.com/lokeshpatel_11" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="max-width: 100%;">
+</a>
+
+<a href="https://www.linkedin.com/in/lokesh-patel-b41795254/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="max-width: 100%;">
+</a>
+
+<a href="https://www.instagram.com/lokeshpatel_11/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" style="max-width: 100%;">
+</a>
 
 
 ---
