@@ -3,6 +3,8 @@ Hi there, I'm Lokesh! 👋<br>I'm a third-year MCA Student. I loves to known the
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lokeshpatel-11&color=blueviolet&style=flat-square)
 
+[![](https://visitcount.itsvg.in/api?id=lokeshpatel-11&icon=0&color=1)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100084457217622) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lokeshpatel_11/) (https://linkedin.com/in/https://www.linkedin.com/in/lokesh-patel-b41795254/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/lokeshpatel_11) 
 
@@ -13,10 +15,13 @@ Hi there, I'm Lokesh! 👋<br>I'm a third-year MCA Student. I loves to known the
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lokeshpatel-11&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshpatel-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🏆 Contribution Activity (Last Year)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=ffffff&color=000000&line=blue&point=000000&area=true&hide_border=true)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lokeshpatel-11&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 
 
