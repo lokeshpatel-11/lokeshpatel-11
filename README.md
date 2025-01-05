@@ -17,18 +17,6 @@ Hi there, I'm Lokesh! 👋<br>I'm a third-year MCA Student. I loves to known the
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshpatel-11&bg_color=ffffff&color=000000&line=blue&point=000000&area=true&hide_border=true)
 
-<table>
-  <tr>
-    <td class="ContributionCalendar-label" style="position: relative">
-      <span class="sr-only">Tuesday</span>
-      <span aria-hidden="true" style="clip-path: Circle(0); position: absolute; bottom: -3px">
-        Tue
-      </span>
-    </td>
-    <!-- Additional cells for contributions -->
-  </tr>
-</table>
-
 
 
 ---
