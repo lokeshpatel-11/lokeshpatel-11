@@ -35,21 +35,23 @@ Hi there, I'm Lokesh! 👋<br>I'm a third-year MCA Student. I love to know the l
 
 ## 🤝🏻 Connect with Me
 
-<a href="https://www.linkedin.com/in/lokesh-patel-b41795254/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="max-width: 100%;">
-</a>
+<div style="text-align: center;">
+  <a href="https://www.linkedin.com/in/lokesh-patel-b41795254/" target="_blank" style="display: inline-block; margin: 0 15px;">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn">
+  </a>
 
-<a href="https://www.instagram.com/lokeshpatel_11/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" style="max-width: 100%;">
-</a>
+  <a href="https://www.instagram.com/lokeshpatel_11/" target="_blank" style="display: inline-block; margin: 0 15px;">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram">
+  </a>
 
-<a href="[https://www.facebook.com/lokeshpatel_11](https://www.facebook.com/profile.php?id=100084457217622)" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" style="max-width: 100%;">
-</a>
+  <a href="https://www.facebook.com/profile.php?id=100084457217622" target="_blank" style="display: inline-block; margin: 0 15px;">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook">
+  </a>
 
-<a href="https://twitter.com/lokeshpatel_11" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" style="max-width: 100%;">
-</a>
+  <a href="https://twitter.com/lokeshpatel_11" target="_blank" style="display: inline-block; margin: 0 15px;">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter">
+  </a>
+</div>
 
 ---
 
