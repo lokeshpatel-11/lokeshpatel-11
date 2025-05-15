@@ -29,10 +29,6 @@ Hi there, I'm Lokesh! 👋<br>I'm a third-year MCA Student. I love to know the l
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lokeshpatel-11&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshpatel-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Contribution Activity (Last Year)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshpatel-11&bg_color=ffffff&color=000000&line=blue&point=000000&area=true&hide_border=true)
-
 ## 🤝🏻 Connect with Me
 
 <div style="text-align: center;">
