@@ -5,7 +5,7 @@ A passionate and curious tech enthusiast, currently in my **third year of MCA** 
 ### 👨‍💻 What I Do
 - 💻 I love exploring **cutting-edge technologies** in **laptops**, **mobile devices**, and **web development**.
 - 🐍 I primarily work with **Python**, and I'm looking to collaborate on **Python modules**, automation tools, and open-source contributions.
-- 📊 I’m also familiar with **Java**, **C/C++**, **HTML/CSS**, **JavaScript**, and **MySQL** for backend/database development.
+- 📊 I’m also familiar with **Python**, **C/C++**, **HTML/CSS**, **JavaScript**, and **MySQL** for backend/database development.
 
 > “Strive for progress, not perfection.”
 
