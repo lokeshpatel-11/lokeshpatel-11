@@ -3,35 +3,35 @@
 A passionate and curious tech enthusiast, currently in my **third year of MCA** at **International Institute of Professional Studies (IIPS), DAVV Indore**.  
 
 ### 👨‍💻 What I Do
-- 💻 I love exploring **cutting-edge technologies** in **laptops**, **mobile devices**, and **web development**.
-- 🐍 I primarily work with **Python**, and I'm looking to collaborate on **Python modules**, automation tools, and open-source contributions.
-- 📊 I’m also familiar with **Python**, **C/C++**, **HTML/CSS**, **JavaScript**, and **MySQL** for backend/database development.
+- I love exploring **cutting-edge technologies** in **laptops**, **mobile devices**, and **web development**.
+- I primarily work with **Python**, and I'm looking to collaborate on **Python modules**, automation tools, and open-source contributions.
+- I’m also familiar with **Python**, **C/C++**, **HTML/CSS**, **JavaScript**, and **MySQL** for backend/database development.
 
 > “Strive for progress, not perfection.”
 
-### 🎯 Interests & Goals
-- 🔍 Interested in **mobile technology**, **consumer electronics**, and how software can enhance user experiences.
-- 🚀 Passionate about building tools that are simple, useful, and impactful.
-- 🤝 Looking to collaborate on:
+### Interests & Goals
+- Interested in **mobile technology**, **consumer electronics**, and how software can enhance user experiences.
+- Passionate about building tools that are simple, useful, and impactful.
+- Looking to collaborate on:
   - Python scripting projects
   - Web-based tools
   - Backend logic modules
   - Tech-based student solutions
 
-### 🧠 Learning & Growing
+### Learning & Growing
 - Currently deepening my understanding of:
   - **Backend development** (PHP, Node.js basics)
   - **APIs** and **automation**
   - **Project-based learning** using GitHub
 - Strong believer in **continuous learning**, clean code, and sharing knowledge.
 
-### 🛠️ Tech Stack Overview
+### Tech Stack Overview
 - Programming Languages: `Python`, `Java`, `C/C++`
 - Web: `HTML`, `CSS`, `JavaScript`, `PHP`
 - Database: `MySQL`
 - Tools: `Git`, `GitHub`, `VS Code`, `XAMPP`
 
-## 🚀 Projects
+## Projects
 
 ### 📌 Covid Vaccination Management System
 A Python and MySQL-based system for maintaining vaccination records.
@@ -58,16 +58,16 @@ A web-based timetable management solution developed using PHP, CSS, JS, and MySQ
 ---
 
 
-### 🌐 Fun Facts
-- 🎮 I enjoy playing outdoor games and listening to music in my free time.
-- 📱 I'm the go-to person among friends for **tech suggestions**—especially for phones and laptops!
-- 📚 I also enjoy writing project reports and organizing tech events at college.
+### Fun Facts
+- I enjoy playing outdoor games and listening to music in my free time.
+- I'm the go-to person among friends for **tech suggestions**—especially for phones and laptops!
+- I also enjoy writing project reports and organizing tech events at college.
 
 ### 🎓 Education
 
 **Integrated MCA (BCA + MCA) 5Yrs**  
 *International Institute of Professional Studies (IIPS), DAVV Indore*  
-📅 2022 – 2027 (Expected)
+  2022 – 2027 (Expected)
 
 Let’s connect and collaborate on exciting tech projects!
 
@@ -101,7 +101,7 @@ Let’s connect and collaborate on exciting tech projects!
 </div>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lokeshpatel-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lokeshpatel-11&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshpatel-11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
